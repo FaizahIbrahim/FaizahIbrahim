@@ -30,8 +30,6 @@ Final-year Information Security student with interests in
 I am currently building practical cybersecurity projects, documenting my learning,
 and strengthening my technical skills through hands-on exploration.
 
-</div>
-
 I am currently focused on strengthening my practical cybersecurity skills by building projects, documenting what I learn, and gradually exploring more advanced areas of security.
 
 ---
