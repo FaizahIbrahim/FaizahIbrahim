@@ -4,10 +4,6 @@
 
 <br>
 
-# Fa'izah Ibrahim
-
-### `Information Security • Cybersecurity • Python • Digital Forensics`
-
 Final-year Information Security student building practical cybersecurity projects,  
 exploring digital forensics, security analysis, and Python-based tooling.
 
