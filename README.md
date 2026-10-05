@@ -19,11 +19,7 @@
 Final-year Information Security student with interests in  
 **Cybersecurity, Digital Forensics, Security Analysis, and Python.**
 
-I am currently building practical cybersecurity projects, documenting my learning,
-and strengthening my technical skills through hands-on exploration.
-
-I am currently focused on strengthening my practical cybersecurity skills by building projects, documenting what I learn, and gradually exploring more advanced areas of security.
-
+I bridge theory and practice by building hands-on projects, documenting my insights, and continuously pushing into more advanced security domains.
 ---
 
 <div align="center">
