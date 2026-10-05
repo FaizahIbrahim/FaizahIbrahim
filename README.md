@@ -2,10 +2,6 @@
 
 <img src="./assets/banner.png" width="100%" alt="Fa'izah Ibrahim GitHub Banner"/>
 
-<br>
-
-Final-year Information Security student building practical cybersecurity projects,  
-exploring digital forensics, security analysis, and Python-based tooling.
 
 <br>
 
