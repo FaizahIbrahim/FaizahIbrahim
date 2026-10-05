@@ -20,6 +20,7 @@ Final-year Information Security student with interests in
 **Cybersecurity, Digital Forensics, Security Analysis, and Python.**
 
 I bridge theory and practice by building hands-on projects, documenting my insights, and continuously pushing into more advanced security domains.
+
 ---
 
 <div align="center">
