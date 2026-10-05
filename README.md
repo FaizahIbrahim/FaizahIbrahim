@@ -27,6 +27,7 @@ I bridge theory and practice by building hands-on projects, documenting my insig
 
 ## ⌨ Technology Stack
 
+
 <img src="https://img.shields.io/badge/Python-3A2C23?style=for-the-badge&logo=python&logoColor=E8DDD0"/>
 <img src="https://img.shields.io/badge/Java-6B5240?style=for-the-badge&logo=openjdk&logoColor=E8DDD0"/>
 <img src="https://img.shields.io/badge/Git-3A2C23?style=for-the-badge&logo=git&logoColor=E8DDD0"/>
