@@ -19,7 +19,8 @@
 Final-year Information Security student with interests in  
 **Cybersecurity, Digital Forensics, Security Analysis, and Python.**
 
-I bridge theory and practice by building hands-on projects, documenting my insights, and continuously pushing into more advanced security domains.
+I bridge theory and practice by building hands-on cybersecurity projects in
+security monitoring, log analysis, digital forensics, and Python-based security tooling.
 
 ---
 
@@ -45,9 +46,39 @@ I bridge theory and practice by building hands-on projects, documenting my insig
 
 ---
 
-## ⌁ Featured Project
+<div align="center">
 
-### `01.` 🔐 Python Keylogger Lab
+## ⌁ Featured Projects
+
+</div>
+
+### `01.` 🔎 Security Log Analyzer
+
+> Python-based cybersecurity tool that analyzes SSH authentication logs, detects suspicious login activity, correlates failed and successful authentication events, and generates security reports and visualizations.
+
+**What I built**
+
+- Parsed SSH authentication logs using Python and regular expressions
+- Detected failed and successful login attempts
+- Extracted and analyzed source IP addresses and targeted usernames
+- Implemented `LOW`, `MEDIUM`, `HIGH`, and `CRITICAL` severity classification
+- Correlated repeated failed logins followed by successful authentication
+- Exported findings into structured CSV security reports
+- Analyzed security data using Pandas
+- Created authentication activity visualizations using Matplotlib
+- Added command-line log file input using `argparse`
+
+<p align="center">
+
+<a href="https://github.com/FaizahIbrahim/security-log-analyzer">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-3A2C23?style=for-the-badge&logo=github&logoColor=E8DDD0"/>
+</a>
+
+</p>
+
+<br>
+
+### `02.` 🔐 Python Keylogger Lab
 
 > Beginner cybersecurity lab exploring keyboard and mouse input monitoring using Python and `pynput`, with an emphasis on understanding keylogging from a defensive security perspective.
 
@@ -60,13 +91,13 @@ I bridge theory and practice by building hands-on projects, documenting my insig
 - Special key processing
 - Ethical and defensive considerations
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/FaizahIbrahim/python-keylogger-lab">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-3A2C23?style=for-the-badge&logo=github&logoColor=E8DDD0"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-6B5240?style=for-the-badge&logo=github&logoColor=E8DDD0"/>
 </a>
 
-</div>
+</p>
 
 ---
 
@@ -74,10 +105,10 @@ I bridge theory and practice by building hands-on projects, documenting my insig
 
 | Area | Current Focus |
 |---|---|
-| `01` Cybersecurity | Building practical security projects |
+| `01` Security Analytics | Log analysis, event correlation, and threat detection |
 | `02` Digital Forensics | Evidence analysis and investigation concepts |
 | `03` Python | Security-focused scripting and automation |
-| `04` Security Analysis | Understanding suspicious behaviour and indicators |
+| `04` Security Monitoring | Identifying suspicious activity and indicators |
 | `05` Network Security | Strengthening foundational networking knowledge |
 
 ---
