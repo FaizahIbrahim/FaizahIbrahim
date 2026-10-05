@@ -104,6 +104,10 @@ I am currently focused on strengthening my practical cybersecurity skills by bui
 <img src="https://img.shields.io/badge/LinkedIn-Fa'izah%20Ibrahim-3A2C23?style=for-the-badge&logo=linkedin&logoColor=E8DDD0"/>
 </a>
 
+<a href="https://www.instagram.com/nurfaiii/">
+<img src="https://img.shields.io/badge/Instagram-nurfaiii-6B5240?style=for-the-badge&logo=instagram&logoColor=E8DDD0"/>
+</a>
+
 <br><br>
 
 `curiosity • security • continuous learning`
