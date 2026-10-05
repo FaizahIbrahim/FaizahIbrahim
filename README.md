@@ -20,21 +20,17 @@ exploring digital forensics, security analysis, and Python-based tooling.
 
 ---
 
+<div align="center">
+
 ## ⌁ About Me
 
-```python
-faizah = {
-    "field": "Information Security",
-    "interests": [
-        "Cybersecurity",
-        "Digital Forensics",
-        "Security Analysis",
-        "Python Security Projects"
-    ],
-    "currently_building": "Practical cybersecurity projects",
-    "approach": "Learn by understanding how systems work — and how they fail"
-}
-```
+Final-year Information Security student with interests in  
+**Cybersecurity, Digital Forensics, Security Analysis, and Python.**
+
+I am currently building practical cybersecurity projects, documenting my learning,
+and strengthening my technical skills through hands-on exploration.
+
+</div>
 
 I am currently focused on strengthening my practical cybersecurity skills by building projects, documenting what I learn, and gradually exploring more advanced areas of security.
 
